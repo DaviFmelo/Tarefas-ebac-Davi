@@ -1,32 +1,32 @@
-Rotina - Manh„
+Rotina - Manh√£
 
 1- Se o dispertador estiver tocando;
  1- Acordo e o desligo;
-2- Se n„o estiver tocando o despertador;
+2- Se n√£o estiver tocando o despertador;
  1- Acordo normalmente;
-3- calÁo meu chinelo;
-4- ando atÈ o banheiro;
-5- Giro a torneiro para liga-l·;
+3- cal√ßo meu chinelo;
+4- ando at√© o banheiro;
+5- Giro a torneiro para liga-l√°;
 6- lavo meu rosto;
-7- Passo o sabonete em minhas m„os;
-8- lavo minhas m„os;
+7- Passo o sabonete em minhas m√£os;
+8- lavo minhas m√£os;
 9- Fecho a torneira;
-10- seco minhas m„os e rosto;
-11- caminho em direÁ„o ‡ cozinha;
+10- seco minhas m√£os e rosto;
+11- caminho em dire√ß√£o √† cozinha;
 12- abro a geladeira;
-13- Pego uma garrafa d'·gua;
+13- Pego uma garrafa d'√°gua;
 14- fecho a geladeira;
 15- Ponho a garrafa encima da mesa;
 16- abro o armario;
 17- pego uma leiteira e meu termogenico;
 18- ponho tudo encima da mesa;
-19- encho a leiteira com a ·gua que peguei;
-20- Ponho a leitera no fog„o;
-21- Ligo o fog„o;
-22- Deixo o fog„o ligado atÈ esquentar a ·gua;
-23- Pego a leitera com a ·gua quente;
-21- encho o copo com a ·gua quente;
-22- Abro a tampa do termogenico;
-23- ponho um scoop no copo;
-24- Misturo os dois e tomo.
+19- encho a leiteira com a √°gua que peguei;
+20- Ponho a leitera no fog√£o;
+21- Ligo o fog√£o;
+22- Deixo o fog√£o ligado at√© esquentar a √°gua;
+23- Pego a leitera com a √°gua quente;
+24- encho o copo com a √°gua quente;
+25- Abro a tampa do termogenico;
+26- ponho um scoop no copo;
+27- Misturo os dois e tomo.
 FIM
