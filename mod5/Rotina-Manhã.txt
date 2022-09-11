@@ -1,0 +1,32 @@
+Rotina - Manhã
+
+1- Se o dispertador estiver tocando;
+ 1- Acordo e o desligo;
+2- Se não estiver tocando o despertador;
+ 1- Acordo normalmente;
+3- calço meu chinelo;
+4- ando até o banheiro;
+5- Giro a torneiro para liga-lá;
+6- lavo meu rosto;
+7- Passo o sabonete em minhas mãos;
+8- lavo minhas mãos;
+9- Fecho a torneira;
+10- seco minhas mãos e rosto;
+11- caminho em direção à cozinha;
+12- abro a geladeira;
+13- Pego uma garrafa d'água;
+14- fecho a geladeira;
+15- Ponho a garrafa encima da mesa;
+16- abro o armario;
+17- pego uma leiteira e meu termogenico;
+18- ponho tudo encima da mesa;
+19- encho a leiteira com a água que peguei;
+20- Ponho a leitera no fogão;
+21- Ligo o fogão;
+22- Deixo o fogão ligado até esquentar a água;
+23- Pego a leitera com a água quente;
+21- encho o copo com a água quente;
+22- Abro a tampa do termogenico;
+23- ponho um scoop no copo;
+24- Misturo os dois e tomo.
+FIM
