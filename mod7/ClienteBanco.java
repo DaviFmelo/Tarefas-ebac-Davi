@@ -1,5 +1,6 @@
 public class ClienteBanco {
-    // A base onde irá comprimentar o usuário
+    // A base onde irá comprimentar o usuário,
+    //Além de dizer seu endereço e o código de recuperação PIN.
 
     public static void main(String[] args) {
         System.out.println("Olá Davi");
