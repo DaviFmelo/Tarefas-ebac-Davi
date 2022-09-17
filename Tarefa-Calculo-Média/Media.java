@@ -1,6 +1,6 @@
 public class Media {
      public static void main(String[] args){
-            System.out.println("********Media das 4 notas*********");
+            System.out.println("********Media de 4 notas*********");
 
             double media1 = 6.3;
             double media2 = 6.2;
