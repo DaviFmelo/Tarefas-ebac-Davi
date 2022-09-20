@@ -3,19 +3,19 @@ public class Wrapper_Casting {
 
             // Wrapper para Primitivo:
 
-            int num9 = Integer.valueOf(123456);
-            System.out.println(num9);
+            int num1 = Integer.valueOf(123456);
+            System.out.println(num1);
 
             // Primitivo para Wrapper
 
-            Integer num10 = 1;
-            System.out.println(num10);
+            Integer num2 = 1;
+            System.out.println(num2);
 
             // Casting
 
-            int num1 = 1021212;
-            System.out.println(num1);
-            short num2 = (short) num1;
-            System.out.println(num2);
+            int num3 = 1021212;
+            System.out.println(num3);
+            short num4 = (short) num3;
+            System.out.println(num4);
         }
     }
