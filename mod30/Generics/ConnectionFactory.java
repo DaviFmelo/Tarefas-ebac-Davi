@@ -32,7 +32,7 @@ public class ConnectionFactory {
 	
 	private static Connection initConnection() {
 		try {
-			return DriverManager.getConnection ("jdbc:postgresql://localhost:64980/vendas_online", "davi", "966737668Franca");
+			return DriverManager.getConnection ("jdbc:postgresql://localhost:64980/vendas_online", "davi", "1234");
 		} catch (SQLException e) {
 			throw new RuntimeException(e);
 		}
